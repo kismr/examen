@@ -1,0 +1,34 @@
+body.a {
+    background-color: lightsalmon;
+}
+
+div.a {
+    background-color: yellow;
+    width: 190px;
+}
+
+h3.a {
+    color: green;
+}
+
+input.a {
+    width: 250px;
+    height: 150px;
+}
+
+input.nc {
+    color: blue;
+}
+
+div.footer {
+    background-color: yellow;
+}
+
+div.namea {
+    display: inline-block;
+}
+
+div.nameb {
+    display: inline-block;
+    color: red;
+}

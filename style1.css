@@ -1,0 +1,94 @@
+body.a {
+    background-color: lightsalmon;
+}
+
+div.a {
+    background-color: yellow;
+    height: 50px;
+}
+
+a.a:link {
+    color: blue;
+}
+
+a.a:visited {
+    color: blue;
+}
+
+a.b:link {
+    color: blue;
+}
+
+a.b:hover {
+    color: red;
+    background-color: lightblue;
+}
+
+div.b {
+    background-color: white;
+    height: 150px;
+}
+
+img.a {
+    position: relative;
+    top: 20px;
+    left: 800px;
+}
+
+img.b {
+    position: relative;
+    top: 190px;
+    left: 400px;
+}
+
+img.c {
+    position: relative;
+    top: 330px;
+    left: 00px;
+}
+
+a.bitcoin {
+    position: relative;
+    top: 40px;
+    left: 700px;
+    color: blue;
+}
+
+a.etherium {
+    position: relative;
+    left: 250px;
+    top: 200px;
+    color: blue;
+}
+
+a.litecoin {
+    position: relative;
+    left: -140px;
+    top: 350px;
+    color: blue;
+}
+
+a.bitcoin:visited {
+    color: blue;
+}
+
+a.etherium:visited {
+    color: blue;
+}
+
+a.litecoin:visited {
+    color: blue;
+}
+
+div.footer {
+    background-color: yellow;
+}
+
+div.namea {
+    display: inline-block;
+}
+
+div.nameb {
+    display: inline-block;
+    color: red;
+}
